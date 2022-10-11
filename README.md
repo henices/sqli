@@ -1,4 +1,4 @@
-# sqli
+# SQLi Scanner
 
 Small and full functional sql injection detection.
 
@@ -25,6 +25,6 @@ Options:
 
 ## Thanks
 
-https://github.com/stamparm/DSSS
-https://github.com/sqlmapproject/sqlmap
+- https://github.com/stamparm/DSSS
+- https://github.com/sqlmapproject/sqlmap
 
